@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naufal.azim@outlook.com**
 
-- ⚡ Fun fact **I love to read book and go to the GYM very often.**
+- ⚡ Fun fact **I love to travel and go to cafe very often.**
 
 ## 🚀 Languages and Tools:
 
