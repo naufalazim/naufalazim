@@ -7,13 +7,13 @@
 
 - 🌱 Developing system for learn and fun. 
 
-- 👯 Interest in software system. 
+-👾 Interest in software development and cyber-security.
 
-- 👯 More to backend system.
+- 📦 More focus on backend system.
 
-- 📫 How to reach me **naufal.azim@outlook.com**
+- 📫 Email me: **naufal.azim@outlook.com**
 
-- ⚡ Fun fact **I love to travel and go to cafe very often.**
+- ⚡ Fun fact **I love to travel and reading.**
 
 ## 🚀 Languages and Tools:
 
