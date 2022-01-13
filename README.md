@@ -9,7 +9,7 @@
 
 - 🌱 Developing system for learn and fun. 
 
--👾 Interest in software development and cyber-security.
+- 👾 Interest in software development and cyber-security.
 
 - 📦 More focus on backend system.
 
