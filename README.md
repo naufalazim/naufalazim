@@ -3,9 +3,10 @@
 </div>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Naufal!</h1>
-<h3 align="left">I'm from Malaysia!</h3>
 
 ## 🙋‍♂️ About Me
+
+- 🇲🇾 From Malaysia.
 
 - 🌱 Developing system for learn and fun. 
 
@@ -14,8 +15,6 @@
 - 📦 More focus on backend system.
 
 - 📫 Email me: **naufal.azim@outlook.com**
-
-- ⚡ Fun fact **I love to travel and reading.**
 
 ## 🚀 Languages and Tools:
 
@@ -37,7 +36,7 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-## 👥 Connect with me:
+## 🧑🏻‍🎓 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohdnaufalazim/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
