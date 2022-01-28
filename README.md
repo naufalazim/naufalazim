@@ -14,7 +14,7 @@
 
 - 👾 Interest in software development and cyber-security.
 
-- 📦 More focus on backend system.
+- 📦 Love to create side-project!
 
 - 📫 Email me: **naufal.azim@outlook.com**
 
