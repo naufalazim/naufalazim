@@ -32,9 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={naufalazim}
-
-
 
 ## 🧑🏻‍🎓 Connect with me:
 <p align="left">
