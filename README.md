@@ -12,7 +12,7 @@
 
 - 🌱 Developing system for learn and fun. 
 
-- 👾 Interest in software development and cyber-security.
+- 👾 Interest in software web and mobile app development, machine learning, IOT and cyber-security.
 
 - 📦 Love to create side-project!
 
