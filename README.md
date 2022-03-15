@@ -6,19 +6,19 @@
 
 <br></br>
 
-## 🙋‍♂️ About Me
+## `🙋‍♂️ About Me`
 
 - 🇲🇾 From Malaysia.
+
+- 🏫 Universiti Pertahanan Nasional Malaysia
 
 - 🌱 Developing system for learn and fun. 
 
 - 👾 Interest in software web and mobile app development, machine learning, IOT and cyber-security.
 
-- 📦 Love to create side-project!
-
 - 📫 Email me: **naufal.azim@outlook.com**
 
-## 🚀 Languages and Tools:
+## `🚀 Languages and Tools`
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -34,7 +34,7 @@
 ![Springboot](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 
-## 🧑🏻‍🎓 Connect with me:
+## `🧑🏻‍🎓 Connect with me`
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohdnaufalazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
