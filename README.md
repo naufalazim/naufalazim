@@ -18,6 +18,7 @@
 
 - 📫 Email me: **naufal.azim@outlook.com**
 
+<br></br>
 ## `🚀 Languages and Tools`
 
 
@@ -33,7 +34,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Springboot](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-
+<br></br>
 ## `🧑🏻‍🎓 Connect with me`
 <p align="left">
 
