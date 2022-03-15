@@ -10,7 +10,7 @@
 
 - 🇲🇾 From Malaysia.
 
-- 🏫 Universiti Pertahanan Nasional Malaysia
+- 🏫 National Defence University Malaysia
 
 - 🌱 Developing system for learn and fun. 
 
