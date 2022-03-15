@@ -16,7 +16,7 @@
 - 👾 Interest in software web and mobile app development, machine learning, IOT and cyber-security.
 
 - 📫 Email me: **naufal.azim@outlook.com**
-<br>
+<br></br>
 
 ### `🚀 Programming & Frameworks`
 
@@ -32,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Springboot](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-<br>
+<br></br>
 
 ### `🧑🏻‍🎓 Connect with me`
 <p align="left">
