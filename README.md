@@ -13,7 +13,7 @@
 
 - 🌱 Developing system for learn and fun. 
 
-- 👾 Interest in software web and mobile app development, machine learning, IOT and cyber-security.
+- 👾 Interest in software web and mobile app development, machine learning(AI) and cyber-security.
 
 - 📫 Email me: **naufal.azim@outlook.com**
 <br></br>
