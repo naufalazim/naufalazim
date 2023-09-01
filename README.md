@@ -9,11 +9,11 @@
 
 - 🇲🇾 From Malaysia.
 
-- 🏫 National Defence University Malaysia
+- 🏫 Universiti Pertahanan Nasional Malaysia
 
 - 🌱 Developing system for learn and fun. 
 
-- 👾 Interest in software web and mobile app development, machine learning(AI) and cyber-security.
+- 👾 Interest in Application Development, A.I & Cyber Security
 
 - 📫 Email me: **naufal.azim@outlook.com**
 <br></br>
