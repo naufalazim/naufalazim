@@ -2,18 +2,18 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Naufal!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Naufal here!</h1>
 
 
 ### `🙋‍♂️ About Me`
 
 - 🇲🇾 From Malaysia.
 
-- 🏫 Universiti Pertahanan Nasional Malaysia
+- 🏫 Universiti Pertahanan Nasional Malaysia (UPNM)
 
-- 🌱 Developing system for learn and fun. 
+- 🌱 Developing system application!
 
-- 👾 Interest in Application Development, A.I & Cyber Security
+- 👾 Interest in Software Development, A.I & Cyber Security
 
 - 📫 Email me: **naufal.azim@outlook.com**
 <br></br>
