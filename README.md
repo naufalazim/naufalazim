@@ -11,9 +11,7 @@
 
 - 🏫 Universiti Pertahanan Nasional Malaysia (UPNM)
 
-- 🌱 Developing system application!
-
-- 👾 Interest in Software Development, A.I & Cyber Security
+- 🌱 Developing system application
 
 - 📫 Email me: **naufal.azim@outlook.com**
 <br></br>
