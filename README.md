@@ -7,9 +7,7 @@
 
 ### `🙋‍♂️ About Me`
 
-- 🇲🇾 From Malaysia.
-
-- 🏫 Universiti Pertahanan Nasional Malaysia (UPNM)
+Fresh graduate in Computer Science (Cyber-Security) from Universiti Pertahanan Nasional Malaysia. Former software engineer trainee at Petronas. 
 
 - 🌱 Developing system application
 
