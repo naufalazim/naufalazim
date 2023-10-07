@@ -7,12 +7,9 @@
 
 ### `🙋‍♂️ About Me`
 
-Fresh graduate in Computer Science (Cyber-Security) from Universiti Pertahanan Nasional Malaysia. Former software engineer trainee at Petronas. 
-
-- 🌱 Developing system application
+Fresh graduate in Computer Science (Cyber-Security) from Universiti Pertahanan Nasional Malaysia. Former software engineer trainee at Petronas. My skills are related to application development. 👨🏻‍💻
 
 - 📫 Email me: **naufal.azim@outlook.com**
-<br></br>
 
 ### `🚀 Programming & Frameworks`
 
