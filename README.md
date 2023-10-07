@@ -29,13 +29,10 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
-<br></br>
-
 ### `🧑🏻‍🎓 Connect with me`
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohdnaufalazim/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 
 </p>
 
