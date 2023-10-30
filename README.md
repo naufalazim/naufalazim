@@ -7,7 +7,7 @@
 
 ### `🙋‍♂️ About Me`
 
-Fresh graduate in Computer Science. 
+Fresh graduate in Computer Science. Currently work as Software Engineer at Silverlake. 
 - 📫 Email me: **naufal.azim@outlook.com**
 
 ### `🚀 Programming & Frameworks`
