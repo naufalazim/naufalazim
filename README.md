@@ -7,7 +7,7 @@
 
 ### `🙋‍♂️ About Me`
 
-Fresh graduate in Computer Science. Currently work as Software Engineer at Silverlake. 
+Fresh graduate in Computer Science. Currently, work as Software Engineer at Silverlake Axis. My current weapon is Java to rock n roll! 
 - 📫 Email me: **naufal.azim@outlook.com**
 
 ### `🚀 Programming & Frameworks`
