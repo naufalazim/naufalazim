@@ -7,7 +7,7 @@
 
 ### `🙋‍♂️ About Me`
 
-Fresh graduate in Computer Science. Former software engineer trainee at Petronas. Currently, work as a Software Engineer at Silverlake Axis. I occasionally work a backend development. 
+Code for living. Former software engineer trainee at Petronas. Currently, work as a Software Engineer at Silverlake Axis. I occasionally work a backend development. 
 - 📫 Email me: **naufal.azim@outlook.com**
 
 ### `🚀 Programming & Frameworks`
