@@ -10,7 +10,8 @@
 - Code for living. 
 - Currently, work as a Software Engineer at <a href="https://www.silverlakeaxis.com/" Silverlake Axis />.
 - I occasionally work a backend development (Java & .NET)
-- Former software engineer trainee at <a href="https://www.petronas.com/" Petronas />. 
+- Former software engineer trainee at <a href="https://www.petronas.com/"></a> Petronas />.
+- <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 - 📫 Email me: **naufal.azim@outlook.com**
 
 ### 🚀 Programming & Frameworks
