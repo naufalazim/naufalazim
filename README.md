@@ -7,13 +7,13 @@
 
 ### `🙋‍♂️ About Me`
 
-Code for living. 
+- Code for living. 
 - Currently, work as a Software Engineer at Silverlake Axis.
 - I occasionally work a backend development (Java & .NET)
 - Former software engineer trainee at Petronas. 
 - 📫 Email me: **naufal.azim@outlook.com**
 
-### `🚀 Programming & Frameworks`
+### 🚀 Programming & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -26,7 +26,7 @@ Code for living.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
-### `🧑🏻‍🎓 Connect with me`
+### 🧑🏻‍🎓 Connect with me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohdnaufalazim/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
