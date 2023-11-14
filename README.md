@@ -7,7 +7,10 @@
 
 ### `🙋‍♂️ About Me`
 
-Code for living. Former software engineer trainee at Petronas. Currently, work as a Software Engineer at Silverlake Axis. I occasionally work a backend development. 
+Code for living. 
+- Currently, work as a Software Engineer at Silverlake Axis.
+- I occasionally work a backend development (Java & .NET)
+- Former software engineer trainee at Petronas. 
 - 📫 Email me: **naufal.azim@outlook.com**
 
 ### `🚀 Programming & Frameworks`
