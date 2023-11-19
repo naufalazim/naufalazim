@@ -1,10 +1,6 @@
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 <h1 align="left">Hi there! <img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="160px" height="120px"></h1>
-
-
 
 ### My name is Naufal Azim, I'm someone who writes code.
 
