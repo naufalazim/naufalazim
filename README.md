@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="160px" height="120px"></h1>
+<h1 align="left">Hello <img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="100px" height="60px"></h1>
 
 ### My name is Naufal Azim, I'm someone who writes code.
 
