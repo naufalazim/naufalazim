@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="100px" height="80px">
+<img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="200px" height="160px">
 
 ### My name is Naufal Azim, I'm someone who writes code.
 
