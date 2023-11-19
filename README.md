@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-### TMy name is Naufal Azim, I'm someone who writes code.
+### My name is Naufal Azim, I'm someone who writes code.
 
 - Code for living. 
 - Currently, work as a Software Engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
