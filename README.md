@@ -2,9 +2,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h1 align="left">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hi there!<img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="200px" height="160px"></h1>
 
-<img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="200px" height="160px">
+
 
 ### My name is Naufal Azim, I'm someone who writes code.
 
