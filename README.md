@@ -4,6 +4,8 @@
 
 <h1 align="left">Hello, welcome to my github page!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://tenor.com/en-GB/view/patrick-gif-5841611508800560609" width="30px">
+
 ### `🙋‍♂️ About Me`
 
 - Code for living. 
