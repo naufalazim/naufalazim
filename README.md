@@ -5,7 +5,7 @@
 - Code for living. 
 - Currently, work as a Software Engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
 - Web, backend (mainly using Java) and some backend(.Net)
-- Some frontend (React.js and Next.js)
+- Experience some frontend frameworks like React.js and Next.js. (I also code with Angular!)
 - Former software engineer trainee at <a href="https://www.petronas.com/">Petronas</a>
 - Contact me: **naufal.azim@outlook.com**
 
