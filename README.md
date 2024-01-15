@@ -1,6 +1,6 @@
 <h1 align="left">Hello <img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="100px" height="60px"></h1>
 
-### My name is Naufal Azim, I'm someone who writes code.
+### My name is Naufal Azim, I write code.
 
 - Code for living.
 - Currently focus on Java programming (I work as Java dev so yeah...)
