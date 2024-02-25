@@ -1,6 +1,6 @@
 <h1 align="left">Hello <img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="100px" height="60px"></h1>
 
-### My name is Naufal Azim, I write code.
+### My name is Naufal Azim, solve problem with code.
 
 - Code for living.
 - Backend Developer (Java & C#)
