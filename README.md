@@ -4,7 +4,8 @@
 
 - Code for living.
 - Backend Developer (Java & C#)
-- Currently, work as a Software Engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
+- Currently work as Software Eng at Hong Leong Bank (HLB)
+- Worked as a Software Engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
 - Former software engineer trainee at <a href="https://www.petronas.com/">Petronas</a>
 - Contact me: **naufal.azim@outlook.com**
 
