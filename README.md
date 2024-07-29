@@ -2,12 +2,14 @@
 
 ### My name is Naufal Azim, write code to solve problem. 
 
-- Code for living.
+- Code for living. 
 - Frontend(Typescript [Angular]) & Backend Developer (Java & C#)
 - Currently work as Software Eng at <a href="https://www.hlb.com.my/en/personal-banking/home.html"> Hong Leong Bank </a>.
 - Ex-software engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
 - Ex-software engineer trainee at <a href="https://www.petronas.com/">Petronas</a>
 - Contact me: **naufal.azim@outlook.com**
+
+## NEVER STOP LEARNING
 
 ### 🚀 Programming & Frameworks
 
