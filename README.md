@@ -9,8 +9,6 @@
 - Ex-software engineer trainee at <a href="https://www.petronas.com/">Petronas</a>
 - Contact me: **naufal.azim@outlook.com**
 
-## NEVER STOP LEARNING
-
 ### 🚀 Programming & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -30,4 +28,6 @@
 <a href = "https://www.shutterstock.com/search/dog-meme"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
+
+## NEVER STOP LEARNING
 
