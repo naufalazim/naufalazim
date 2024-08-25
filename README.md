@@ -3,7 +3,7 @@
 ### < Naufal Azim. /> 
 
 - Code for living. 
-- Frontend(Angular) & Backend Developer (Java & C#)
+- Frontend (Angular) & Backend Developer (Java & C#)
 - Basically, Fullstack Developer 😭 
 - Currently work as Software Eng at <a href="https://www.hlb.com.my/en/personal-banking/home.html"> Hong Leong Bank </a>.
 - Ex-software engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
