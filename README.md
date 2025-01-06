@@ -3,11 +3,8 @@
 ### < Naufal Azim. /> 
 
 - Code for living. 
-- Angular Typescript for Frontend.
--  Java and C# for Backend.
-- Currently work as Software Eng at <a href="https://www.hlb.com.my/en/personal-banking/home.html"> Hong Leong Bank </a>.
-- Ex-software engineer at <a href="https://www.silverlakeaxis.com/"> Silverlake Axis </a>.
-- Ex-software engineer trainee at <a href="https://www.petronas.com/">Petronas</a>
+- Angular
+- Java
 - Contact me: **naufal.azim@outlook.com**
 
 ### 🚀 Programming & Frameworks
