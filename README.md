@@ -2,9 +2,12 @@
 
 ### < Naufal Azim. /> 
 
-- Code for living. 
-- Angular
+- Software Enginner. 
 - Java
+- Typescript (Ts)
+- Javascript
+- Guidewire Platform (PolicyCenter)
+- API Integration
 - Contact me: **naufal.azim@outlook.com**
 
 ### 🚀 Programming & Frameworks
