@@ -1,13 +1,13 @@
 <h1 align="left">Hello <img src="https://github.com/naufalazim/naufalazim/blob/main/patrick.gif" width="100px" height="60px"></h1>
 
 ### < Naufal Azim. /> 
-
-- Software Enginner. 
+I'm software engineer at one of the big 4. Ex-software engineer at bank. Focus in finance industry because i love money.
 - Java
 - Typescript (Ts)
 - Javascript
 - Guidewire Platform (PolicyCenter)
 - API Integration
+- Focus on improve my skills using AI tools (become AI solution engineer!)
 - Contact me: **naufal.azim@outlook.com**
 
 ### 🚀 Programming & Frameworks
